@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Stack">
+      <UniqueIdentifier>{e1b036ed-925a-4c5b-950f-5669c7f68663}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Queue">
+      <UniqueIdentifier>{f5e4a118-b777-4106-aac1-e0d31202bac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hashing">
+      <UniqueIdentifier>{482b8cf9-e766-409c-b6cc-be959a511726}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting Algo">
+      <UniqueIdentifier>{d9da144b-7969-42f6-a7d9-ff61498661a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Searching Algo">
+      <UniqueIdentifier>{63433eac-ed9a-40a3-998d-e7b62d6b254b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Arrays">
+      <UniqueIdentifier>{2534046a-32ec-4990-bcbe-1c8b665bae9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Binary Trees">
+      <UniqueIdentifier>{dadaf4af-2833-49e7-82c0-557a8639c45d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Heaps">
+      <UniqueIdentifier>{806193fa-11a4-4871-8c4e-f9d0118f1376}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked Lists">
+      <UniqueIdentifier>{19e028ea-fe35-4d26-9e7f-ccd86bcee760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Leetcode">
+      <UniqueIdentifier>{22d48e19-23c1-47d9-ac61-681a8460b4a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\File Manipulation">
+      <UniqueIdentifier>{b05acc7e-6152-4c69-aa01-0b41609e995d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Doubly_List.cpp">
+      <Filter>Source Files\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="Linear_Probing.cpp">
+      <Filter>Source Files\Hashing</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map_practice.cpp">
+      <Filter>Source Files\Hashing</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_Array.cpp">
+      <Filter>Source Files\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_List.cpp">
+      <Filter>Source Files\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack_Array.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack_List.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="Polish_Notation.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidingWindow.cpp">
+      <Filter>Source Files\Leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayHeapList.cpp">
+      <Filter>Source Files\Heaps</Filter>
+    </ClCompile>
+    <ClCompile Include="MinHeapArray.cpp">
+      <Filter>Source Files\Heaps</Filter>
+    </ClCompile>
+    <ClCompile Include="SortingAlgorithms.cpp">
+      <Filter>Source Files\Sorting Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayList.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFile.cpp">
+      <Filter>Source Files\File Manipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadraticProbing.cpp">
+      <Filter>Source Files\Hashing</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>Source Files\Binary Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTree.cpp">
+      <Filter>Source Files\Binary Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>Source Files\Searching Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueue.cpp">
+      <Filter>Source Files\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorQueue.cpp">
+      <Filter>Source Files\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Paranthesis.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTable-Linear.cpp">
+      <Filter>Source Files\Hashing</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
